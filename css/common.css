@@ -1,0 +1,15 @@
+.questionStem{
+    font-size: 16px;
+    /* padding: 0px; */
+    /* background-color: #efefef; */
+    color: #b3b3b3;
+    text-align: left;
+    line-height: 22px;
+    letter-spacing: 0.06em;
+}
+ul{
+    -webkit-padding-start: 0px;
+}
+input.labelauty + label{
+    margin-left: 30px;
+}

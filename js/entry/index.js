@@ -15,6 +15,8 @@ require ('../../css/popTips.css');
 
 require ('../../css/jquery-labelauty.css');
 
+require ('../../css/common.css');
+
 //引入服务文件
 require('../helper/popTipHelper');
 
