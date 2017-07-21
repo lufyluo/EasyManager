@@ -1,3 +1,6 @@
+.list-item{
+    max-width:750px;
+}
 .questionStem{
     font-size: 16px;
     /* padding: 0px; */
@@ -9,7 +12,14 @@
 }
 ul{
     -webkit-padding-start: 0px;
+    -webkit-margin-before: 0.5em;
 }
 input.labelauty + label{
     margin-left: 30px;
+}
+.textAnswer{
+    width: 730px;
+    border-radius: 3px;
+    /* text-indent: 2em; */
+    padding: 3px;
 }
